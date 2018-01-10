@@ -4,7 +4,7 @@
 This is a basic jump and duck style game built with Java and the built in Java.awt graphics library
 
 ## Setup
-To play, download the folder and run the DonutRoller.class file in the 'bin' folder
+To play, download the folder and run the DonutRoller.class file in the `bin` folder
 ## Controls
  * Left arrow - move left
  * Right arrow - move right
