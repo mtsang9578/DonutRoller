@@ -4,7 +4,7 @@
 This is a basic jump and duck style game built with Java and the built in Java.awt graphics library
 
 ## Setup
-To play, download the project and run the DonutRoller.class file in the `bin` folder
+To play, download the project and run the **DonutRoller.class** file in the **bin** folder
 
 ## Rules
  ### Controls
@@ -15,11 +15,11 @@ To play, download the project and run the DonutRoller.class file in the `bin` fo
   * Down(Air) - fast fall
  
  ### Objects
- **Avoid these...**
+ Avoid these...
 
  ![alt text](Broccoli.png) ![alt text](Carrot.png)
 
 
- **Collect these...**
+ Collect these...
 
  ![alt text](CandyLife1.png)
