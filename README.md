@@ -11,4 +11,6 @@ This is a basic jump and duck style game built with Java and the built in Java.a
  * Down(Air) - fast fall
  
 ## Objects
-![alt text](GraphicBroccoli.png)
+![alt text](Broccoli.png)
+![alt text](Carrot.png)
+![alt text](CandyLife.png)
