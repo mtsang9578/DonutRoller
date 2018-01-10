@@ -16,5 +16,6 @@ This is a basic jump and duck style game built with Java and the built in Java.a
 ![alt text](Broccoli.png) ![alt text](Carrot.png)
 
 
-**Collect these**
+**Collect these...**
+
 ![alt text](CandyLife1.png)
