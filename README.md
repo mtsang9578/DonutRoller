@@ -17,9 +17,9 @@ To play, download the project and run the **DonutRoller.class** file in the **bi
  ### Objects
  Avoid these...
 
- ![alt text](Broccoli.png) ![alt text](Carrot.png)
+ ![alt text](bin/Broccoli.png) ![alt text](bin/Carrot.png)
 
 
  Collect these...
 
- ![alt text](CandyLife1.png)
+ ![alt text](bin/CandyLife1.png)
